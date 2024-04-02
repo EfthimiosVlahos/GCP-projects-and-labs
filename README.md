@@ -1,4 +1,4 @@
-# Mastering Google Cloud Platform (GCP) for Machine Learning
+# Mastering Google Cloud Platform for Machine Learning
 
 This repository documents my journey and key takeaways from in-depth courses focused on mastering Google Cloud Platform (GCP) for machine learning and MLOps/DevOps. The course equipped me with the skills to leverage various GCP services for building, deploying, and scaling machine learning models efficiently. Additionally, I include my personal projects working with GCP in this repository.
 
